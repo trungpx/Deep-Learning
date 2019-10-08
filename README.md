@@ -1,2 +1,2 @@
 # Deep-Learning
-Go deeper into CNN, ANN, RNN, LSTM to achieve a better outcomes.
+Go deeper into DNN, CNN, RNN, to achieve the better outcomes.
